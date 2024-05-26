@@ -1,0 +1,7 @@
+*.o
+mysh
+*.a
+.vscode
+mysh
+tests/my_divzero
+tests/my_segfault
